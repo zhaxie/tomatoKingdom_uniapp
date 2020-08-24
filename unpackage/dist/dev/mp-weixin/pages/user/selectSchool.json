@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "search-and-select-by-list": "/components/searchAndSelectByList"
+  }
+}
